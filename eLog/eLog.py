@@ -12,10 +12,10 @@ class eLog:
         self.token = data.get_token()
         self.db_id = data.getDBid()
         if not self.token: 
-            print(f'[!] eLog.py | No Notion API key found. Please run {os.path.join(os.path.dirname(os.path.realpath(__file__)), "setup.py")}')
+            print(f'[!] eLog.py | No Notion API key found. Please run configure.py.')
             return
         if not self.db_id: 
-            print(f'[!] eLog.py | No Notion database ID found. Please run {os.path.join(os.path.dirname(os.path.realpath(__file__)), "setup.py")}.')
+            print(f'[!] eLog.py | No Notion database ID found. Please run configure.py.')
             return
         self.filename = filename
         self.headers = {
