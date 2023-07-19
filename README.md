@@ -2,7 +2,7 @@
 
 `eLog` is a Python library designed to help you log errors to a Notion database, where they can be sorted by file and any other provided data point. It takes an error and the filename as input, then uses the Notion API to either update an existing page in the database or create a new one, depending on whether a page with a matching error and filename already exists. 
 
-This allows you to stay on top of each and every error, between all of your applications. 
+This allows you to stay on top of each and every error, between all of your applications and projects. 
 
 ## Features
 
