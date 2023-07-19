@@ -36,11 +36,11 @@ Configure your Notion API Key and error page:
 py configure.py
 ```
 
-Execute the created script to set env variables:
+Execute the created script as admin to set env variables:
 ```
-./set_env.sh
+sudo ./set_env.sh
 ```
-Or
+Or, from an elevated Windows terminal:
 ```
 set_env.bat
 ```
