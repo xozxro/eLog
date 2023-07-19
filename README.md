@@ -26,11 +26,6 @@ git clone https://github.com/username/eLog.git
 cd eLog
 ```
 
-Install the necessary dependencies:
-```
-pip install requests pytz
-```
-
 Install the package:
 ```
 pip install .
