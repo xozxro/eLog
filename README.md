@@ -67,9 +67,9 @@ e.log('Succesfully pushed an error!')
 
 ## Contributing
 
-We welcome contributions! Please see our contributing guidelines for more details.
+We welcome contributions! Please feel free to submit a PR.
 
 ## License
 
-This project is licensed under the terms of the MIT license. See LICENSE for more details.
+This project is licensed under the terms of the MIT license.
 
