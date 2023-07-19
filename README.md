@@ -13,10 +13,8 @@
 ## Requirements
 
 - Python 3.7+
-- `requests` library
-- `pytz` library
-- Notion API token
-- Notion database ID
+- [Notion API Key](https://www.notion.so/my-integrations)
+- Duplicated [Error Log Notion Page](https://flytlabs.notion.site/255a9161424c473a91c8c2d36678a53b?v=b46290c3087f44b58d93e60d090976e9&pvs=4)
 
 ## Installation
 
@@ -49,15 +47,13 @@ Done!
 
 ## Usage
 
-### As a standalone script
+### As an external script
 
-Run the script from the command line:
+Run the script from the command line (or any other language):
 
 ```
 elog "filename.py" "This is your error message"
 ```
-
-Replace "filename.py" and "This is your error message" with your filename and error message.
 
 ### As a Python library
 
