@@ -22,7 +22,7 @@ This allows you to stay on top of each and every error, between all of your appl
 
 Clone the repository:
 ```
-git clone https://github.com/username/eLog.git
+git clone https://github.com/xozxro/eLog.git
 cd eLog
 ```
 
