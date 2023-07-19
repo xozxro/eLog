@@ -52,7 +52,7 @@ Done!
 Run the script from the command line (or any other language):
 
 ```
-elog "filename.py" "This is your error message"
+elog filename.py "This is your error message"
 ```
 
 ### As a Python library
